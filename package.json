@@ -1,0 +1,32 @@
+{
+  "name": "@tek-tech/teedata",
+  "version": "1.0.0",
+  "description": "TeeData - A wrapper around @tek-tech/deebee. Mainly designed for TeeShop, but that can do more.",
+  "main": "TeeData.js",
+  "scripts": {
+    "test": "node TeeData.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tek-tech/teedata.git"
+  },
+  "keywords": [
+    "Tek-Tech",
+    "tektech",
+    "TEKTECH",
+    "EL",
+    "HADJI",
+    "SEYBATOU",
+    "MBENGUE",
+    "mysql",
+    "node",
+    "database",
+    "javascript"
+  ],
+  "author": "EL HADJI SEYBATOU MBENGUE (TEK-TECH)",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/tek-tech/teedata/issues"
+  },
+  "homepage": "https://github.com/tek-tech/teedata#readme"
+}
