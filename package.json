@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/tek-tech/teedata/issues"
   },
-  "homepage": "https://github.com/tek-tech/teedata#readme"
+  "homepage": "https://github.com/tek-tech/teedata#readme",
+  "dependencies": {
+    "@tek-tech/deebee": "^1.0.4-beta"
+  }
 }
