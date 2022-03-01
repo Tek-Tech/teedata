@@ -1,6 +1,6 @@
 {
   "name": "@tek-tech/teedata",
-  "version": "1.0.0",
+  "version": "1.0.0-r",
   "description": "TeeData - A wrapper around @tek-tech/deebee. Mainly designed for TeeShop, but that can do more.",
   "main": "TeeData.js",
   "scripts": {
